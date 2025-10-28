@@ -1,2 +1,6 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
-Aula RNA e Deep Learning - CESAR School 2025.01
+# Nome: Arthur de Oliveira Ávila
+# E-mail:aoa2@cesar.school
+
+# Nome: Gabriel Ferreira de Souza
+# E-mail:gfs2@cesar.school
+
